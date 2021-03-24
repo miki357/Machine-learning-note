@@ -35,3 +35,4 @@
       - Seaborn
       - Matplotlib
       - Plotly
+   * 繪製及分析圖表練習
