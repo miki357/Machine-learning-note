@@ -30,4 +30,8 @@
       - 新增 & 刪除(drop) & rename(重新命名)
   * 習題練習
 ## week4 
-  * CH4 APPLICATIONS OF MACHINE LEARNING TO ECONOMICS AND FINANCE [L4 note]
+   * CH4 APPLICATIONS OF MACHINE LEARNING TO ECONOMICS AND FINANCE [L4 note]
+   * Python資料視覺化套件
+      - Seaborn
+      - Matplotlib
+      - Plotly
