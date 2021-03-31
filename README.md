@@ -36,3 +36,12 @@
       - Matplotlib
       - Plotly
    * 繪製及分析圖表練習
+## week5
+   * CH5 APPLICATIONS OF MACHINE LEARNING TO ECONOMICS AND FINANCE [L5 note]
+   * 練習讀取/匯出檔案
+     - resd_csv,to_csv
+   * 爬蟲教學
+     - 網址內表格
+     - 網址內新聞所有標題
+   * 習題練習
+     - [SF Salaries Dataset](https://www.kaggle.com/kaggle/sf-salaries) 
