@@ -45,3 +45,5 @@
      - 網址內新聞所有標題
    * 習題練習
      - [SF Salaries Dataset](https://www.kaggle.com/kaggle/sf-salaries) 
+   * 匯率爬蟲練習.ipynb(2021.04.12)
+     - to_excel(currency.xlsx)
