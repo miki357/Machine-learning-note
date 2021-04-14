@@ -47,3 +47,18 @@
      - [SF Salaries Dataset](https://www.kaggle.com/kaggle/sf-salaries) 
    * 匯率爬蟲練習.ipynb(2021.04.12)
      - to_excel(currency.xlsx)
+## week6
+  * CH6 APPLICATIONS OF MACHINE LEARNING TO ECONOMICS AND FINANCE [L6 note]
+  * 迴歸
+     - Simple Linear Regression
+     - Multiple Linear Regression
+     - Polynomial Regression
+     - Logistic Regression
+  * 方法
+     - Ridge
+     - Lasso
+  * cleaving data methods
+     - Dummy
+     - label_encoder
+  * 習題練習
+  
