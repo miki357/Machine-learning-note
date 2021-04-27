@@ -30,23 +30,23 @@
       - 新增 & 刪除(drop) & rename(重新命名)
   * 習題練習
 ## week4 
-   * CH4 APPLICATIONS OF MACHINE LEARNING TO ECONOMICS AND FINANCE [L4 note]
-   * Python資料視覺化套件
-      - Seaborn
-      - Matplotlib
-      - Plotly
-   * 繪製及分析圖表練習
+  * CH4 APPLICATIONS OF MACHINE LEARNING TO ECONOMICS AND FINANCE [L4 note]
+  * Python資料視覺化套件
+     - Seaborn
+     - Matplotlib
+     - Plotly
+  * 繪製及分析圖表練習
 ## week5
-   * CH5 APPLICATIONS OF MACHINE LEARNING TO ECONOMICS AND FINANCE [L5 note]
-   * 練習讀取/匯出檔案
+  * CH5 APPLICATIONS OF MACHINE LEARNING TO ECONOMICS AND FINANCE [L5 note]
+  * 練習讀取/匯出檔案
      - red_csv,to_csv
-   * 爬蟲教學
+  * 爬蟲教學
      - 網址內表格
      - 網址內新聞所有標題
-   * 習題練習
+  * 習題練習
      - [SF Salaries Dataset](https://www.kaggle.com/kaggle/sf-salaries) 
-   * 匯率爬蟲練習.ipynb(2021.04.12)
-     - to_excel(currency.xlsx)
+  * 匯率爬蟲練習.ipynb(2021.04.12)
+      - to_excel(currency.xlsx)
 ## week6
   * CH6 APPLICATIONS OF MACHINE LEARNING TO ECONOMICS AND FINANCE [L6 note]
   * 迴歸
@@ -55,10 +55,24 @@
      - Polynomial Regression
      - Logistic Regression
   * 方法
-     - Ridge
-     - Lasso
+      - Ridge
+      - Lasso
   * cleaving data methods
      - Dummy
      - label_encoder
   * 習題練習
+## week7
+  * CH7 APPLICATIONS OF MACHINE LEARNING TO ECONOMICS AND FINANCE [L7 note]
+  * 混淆矩陣
+     - TypeI & II errors
+     - Accuracy
+     - Precision
+     - Recall(sensitivity)
+     - F-score
+     - Specificity
+  * bias & variance
+  * import train_test_split
+     - 拆分成訓練集跟測試集
+
+  
   
